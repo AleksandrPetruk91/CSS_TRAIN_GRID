@@ -325,14 +325,12 @@
 
 .task51 {
   display: grid;
-  grid-template-rows: 1fr;
   grid-auto-columns: 100px;
   grid-auto-flow: column;
 }
 
 .task52 {
   display: grid;
-  grid-template-rows: 1fr;
   grid-auto-flow: column;
   grid-auto-columns: minmax(100px, 1fr);
 }
